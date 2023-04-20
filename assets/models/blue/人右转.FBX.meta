@@ -1,0 +1,134 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f938645f-92a1-4e18-ac02-a4a88a98f71c",
+  "files": [],
+  "subMetas": {
+    "1cb49": {
+      "importer": "gltf-mesh",
+      "uuid": "f938645f-92a1-4e18-ac02-a4a88a98f71c@1cb49",
+      "displayName": "",
+      "id": "1cb49",
+      "name": "Group1_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8a06": {
+      "importer": "gltf-animation",
+      "uuid": "f938645f-92a1-4e18-ac02-a4a88a98f71c@b8a06",
+      "displayName": "",
+      "id": "b8a06",
+      "name": "右转.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.5833333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "f938645f-92a1-4e18-ac02-a4a88a98f71c@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 22
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "49b23": {
+      "importer": "gltf-material",
+      "uuid": "f938645f-92a1-4e18-ac02-a4a88a98f71c@49b23",
+      "displayName": "",
+      "id": "49b23",
+      "name": "Material #49.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4cdff": {
+      "importer": "gltf-scene",
+      "uuid": "f938645f-92a1-4e18-ac02-a4a88a98f71c@4cdff",
+      "displayName": "",
+      "id": "4cdff",
+      "name": "人右转.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "右转",
+        "duration": 1.5833333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "右转",
+            "from": 0,
+            "to": 1.5833333730697632,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "f938645f-92a1-4e18-ac02-a4a88a98f71c@4cdff",
+    "assetFinder": {
+      "meshes": [
+        "f938645f-92a1-4e18-ac02-a4a88a98f71c@1cb49"
+      ],
+      "skeletons": [
+        "f938645f-92a1-4e18-ac02-a4a88a98f71c@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "f938645f-92a1-4e18-ac02-a4a88a98f71c@49b23"
+      ],
+      "scenes": [
+        "f938645f-92a1-4e18-ac02-a4a88a98f71c@4cdff"
+      ]
+    }
+  }
+}

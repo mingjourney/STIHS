@@ -1,0 +1,134 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ddc63478-68b9-489c-bad6-c84527d9788c",
+  "files": [],
+  "subMetas": {
+    "16753": {
+      "importer": "gltf-scene",
+      "uuid": "ddc63478-68b9-489c-bad6-c84527d9788c@16753",
+      "displayName": "",
+      "id": "16753",
+      "name": "人跳.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "33252": {
+      "importer": "gltf-animation",
+      "uuid": "ddc63478-68b9-489c-bad6-c84527d9788c@33252",
+      "displayName": "",
+      "id": "33252",
+      "name": "生气.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.5
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "09361": {
+      "importer": "gltf-mesh",
+      "uuid": "ddc63478-68b9-489c-bad6-c84527d9788c@09361",
+      "displayName": "",
+      "id": "09361",
+      "name": "Group1.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "ddc63478-68b9-489c-bad6-c84527d9788c@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 22
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "49b23": {
+      "importer": "gltf-material",
+      "uuid": "ddc63478-68b9-489c-bad6-c84527d9788c@49b23",
+      "displayName": "",
+      "id": "49b23",
+      "name": "Material #49.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "生气",
+        "duration": 2.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "生气",
+            "from": 0,
+            "to": 2.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "ddc63478-68b9-489c-bad6-c84527d9788c@16753",
+    "assetFinder": {
+      "meshes": [
+        "ddc63478-68b9-489c-bad6-c84527d9788c@09361"
+      ],
+      "skeletons": [
+        "ddc63478-68b9-489c-bad6-c84527d9788c@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "ddc63478-68b9-489c-bad6-c84527d9788c@49b23"
+      ],
+      "scenes": [
+        "ddc63478-68b9-489c-bad6-c84527d9788c@16753"
+      ]
+    }
+  }
+}

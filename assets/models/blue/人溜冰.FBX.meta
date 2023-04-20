@@ -1,0 +1,134 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "30348322-da5a-4556-824b-fde46bdc830d",
+  "files": [],
+  "subMetas": {
+    "32198": {
+      "importer": "gltf-animation",
+      "uuid": "30348322-da5a-4556-824b-fde46bdc830d@32198",
+      "displayName": "",
+      "id": "32198",
+      "name": "溜冰.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.625
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1cb49": {
+      "importer": "gltf-mesh",
+      "uuid": "30348322-da5a-4556-824b-fde46bdc830d@1cb49",
+      "displayName": "",
+      "id": "1cb49",
+      "name": "Group1_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "30348322-da5a-4556-824b-fde46bdc830d@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 22
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "49b23": {
+      "importer": "gltf-material",
+      "uuid": "30348322-da5a-4556-824b-fde46bdc830d@49b23",
+      "displayName": "",
+      "id": "49b23",
+      "name": "Material #49.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cdece": {
+      "importer": "gltf-scene",
+      "uuid": "30348322-da5a-4556-824b-fde46bdc830d@cdece",
+      "displayName": "",
+      "id": "cdece",
+      "name": "人溜冰.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "溜冰",
+        "duration": 2.625,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "溜冰",
+            "from": 0,
+            "to": 2.625,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "30348322-da5a-4556-824b-fde46bdc830d@cdece",
+    "assetFinder": {
+      "meshes": [
+        "30348322-da5a-4556-824b-fde46bdc830d@1cb49"
+      ],
+      "skeletons": [
+        "30348322-da5a-4556-824b-fde46bdc830d@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "30348322-da5a-4556-824b-fde46bdc830d@49b23"
+      ],
+      "scenes": [
+        "30348322-da5a-4556-824b-fde46bdc830d@cdece"
+      ]
+    }
+  }
+}

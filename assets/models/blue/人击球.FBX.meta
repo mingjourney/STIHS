@@ -1,0 +1,134 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ba4ef9d2-349f-4c88-bfb2-2fb2fb2e2321",
+  "files": [],
+  "subMetas": {
+    "1cb49": {
+      "importer": "gltf-mesh",
+      "uuid": "ba4ef9d2-349f-4c88-bfb2-2fb2fb2e2321@1cb49",
+      "displayName": "",
+      "id": "1cb49",
+      "name": "Group1_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "56a50": {
+      "importer": "gltf-animation",
+      "uuid": "ba4ef9d2-349f-4c88-bfb2-2fb2fb2e2321@56a50",
+      "displayName": "",
+      "id": "56a50",
+      "name": "击球.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.5833333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "ba4ef9d2-349f-4c88-bfb2-2fb2fb2e2321@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 22
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "49b23": {
+      "importer": "gltf-material",
+      "uuid": "ba4ef9d2-349f-4c88-bfb2-2fb2fb2e2321@49b23",
+      "displayName": "",
+      "id": "49b23",
+      "name": "Material #49.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43cc9": {
+      "importer": "gltf-scene",
+      "uuid": "ba4ef9d2-349f-4c88-bfb2-2fb2fb2e2321@43cc9",
+      "displayName": "",
+      "id": "43cc9",
+      "name": "人击球.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "击球",
+        "duration": 1.5833333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "击球",
+            "from": 0,
+            "to": 1.5833333730697632,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "ba4ef9d2-349f-4c88-bfb2-2fb2fb2e2321@43cc9",
+    "assetFinder": {
+      "meshes": [
+        "ba4ef9d2-349f-4c88-bfb2-2fb2fb2e2321@1cb49"
+      ],
+      "skeletons": [
+        "ba4ef9d2-349f-4c88-bfb2-2fb2fb2e2321@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "ba4ef9d2-349f-4c88-bfb2-2fb2fb2e2321@49b23"
+      ],
+      "scenes": [
+        "ba4ef9d2-349f-4c88-bfb2-2fb2fb2e2321@43cc9"
+      ]
+    }
+  }
+}

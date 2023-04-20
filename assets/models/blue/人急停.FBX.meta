@@ -1,0 +1,134 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2b6f50db-8cf9-4523-a393-37fe04f5e13b",
+  "files": [],
+  "subMetas": {
+    "1cb49": {
+      "importer": "gltf-mesh",
+      "uuid": "2b6f50db-8cf9-4523-a393-37fe04f5e13b@1cb49",
+      "displayName": "",
+      "id": "1cb49",
+      "name": "Group1_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a3d4d": {
+      "importer": "gltf-animation",
+      "uuid": "2b6f50db-8cf9-4523-a393-37fe04f5e13b@a3d4d",
+      "displayName": "",
+      "id": "a3d4d",
+      "name": "急停.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "2b6f50db-8cf9-4523-a393-37fe04f5e13b@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 22
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "49b23": {
+      "importer": "gltf-material",
+      "uuid": "2b6f50db-8cf9-4523-a393-37fe04f5e13b@49b23",
+      "displayName": "",
+      "id": "49b23",
+      "name": "Material #49.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eafe1": {
+      "importer": "gltf-scene",
+      "uuid": "2b6f50db-8cf9-4523-a393-37fe04f5e13b@eafe1",
+      "displayName": "",
+      "id": "eafe1",
+      "name": "人急停.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "急停",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "急停",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "2b6f50db-8cf9-4523-a393-37fe04f5e13b@eafe1",
+    "assetFinder": {
+      "meshes": [
+        "2b6f50db-8cf9-4523-a393-37fe04f5e13b@1cb49"
+      ],
+      "skeletons": [
+        "2b6f50db-8cf9-4523-a393-37fe04f5e13b@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "2b6f50db-8cf9-4523-a393-37fe04f5e13b@49b23"
+      ],
+      "scenes": [
+        "2b6f50db-8cf9-4523-a393-37fe04f5e13b@eafe1"
+      ]
+    }
+  }
+}

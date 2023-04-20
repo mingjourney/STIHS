@@ -1,0 +1,134 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e8384309-3eeb-4a0f-8e72-8f5a0697831c",
+  "files": [],
+  "subMetas": {
+    "1cb49": {
+      "importer": "gltf-mesh",
+      "uuid": "e8384309-3eeb-4a0f-8e72-8f5a0697831c@1cb49",
+      "displayName": "",
+      "id": "1cb49",
+      "name": "Group1_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "efd0a": {
+      "importer": "gltf-animation",
+      "uuid": "e8384309-3eeb-4a0f-8e72-8f5a0697831c@efd0a",
+      "displayName": "",
+      "id": "efd0a",
+      "name": "左急转.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.375
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "e8384309-3eeb-4a0f-8e72-8f5a0697831c@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 22
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "49b23": {
+      "importer": "gltf-material",
+      "uuid": "e8384309-3eeb-4a0f-8e72-8f5a0697831c@49b23",
+      "displayName": "",
+      "id": "49b23",
+      "name": "Material #49.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "284c7": {
+      "importer": "gltf-scene",
+      "uuid": "e8384309-3eeb-4a0f-8e72-8f5a0697831c@284c7",
+      "displayName": "",
+      "id": "284c7",
+      "name": "人左急转.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "左急转",
+        "duration": 1.375,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "左急转",
+            "from": 0,
+            "to": 1.375,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "e8384309-3eeb-4a0f-8e72-8f5a0697831c@284c7",
+    "assetFinder": {
+      "meshes": [
+        "e8384309-3eeb-4a0f-8e72-8f5a0697831c@1cb49"
+      ],
+      "skeletons": [
+        "e8384309-3eeb-4a0f-8e72-8f5a0697831c@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "e8384309-3eeb-4a0f-8e72-8f5a0697831c@49b23"
+      ],
+      "scenes": [
+        "e8384309-3eeb-4a0f-8e72-8f5a0697831c@284c7"
+      ]
+    }
+  }
+}

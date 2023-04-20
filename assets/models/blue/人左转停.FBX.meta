@@ -1,0 +1,134 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "257a9ea7-0205-4975-920f-b05961271498",
+  "files": [],
+  "subMetas": {
+    "1cb49": {
+      "importer": "gltf-mesh",
+      "uuid": "257a9ea7-0205-4975-920f-b05961271498@1cb49",
+      "displayName": "",
+      "id": "1cb49",
+      "name": "Group1_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f73f4": {
+      "importer": "gltf-animation",
+      "uuid": "257a9ea7-0205-4975-920f-b05961271498@f73f4",
+      "displayName": "",
+      "id": "f73f4",
+      "name": "左转停.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.4166667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "257a9ea7-0205-4975-920f-b05961271498@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 22
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "49b23": {
+      "importer": "gltf-material",
+      "uuid": "257a9ea7-0205-4975-920f-b05961271498@49b23",
+      "displayName": "",
+      "id": "49b23",
+      "name": "Material #49.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "81a58": {
+      "importer": "gltf-scene",
+      "uuid": "257a9ea7-0205-4975-920f-b05961271498@81a58",
+      "displayName": "",
+      "id": "81a58",
+      "name": "人左转停.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "左转停",
+        "duration": 2.4166667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "左转停",
+            "from": 0,
+            "to": 2.4166667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "257a9ea7-0205-4975-920f-b05961271498@81a58",
+    "assetFinder": {
+      "meshes": [
+        "257a9ea7-0205-4975-920f-b05961271498@1cb49"
+      ],
+      "skeletons": [
+        "257a9ea7-0205-4975-920f-b05961271498@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "257a9ea7-0205-4975-920f-b05961271498@49b23"
+      ],
+      "scenes": [
+        "257a9ea7-0205-4975-920f-b05961271498@81a58"
+      ]
+    }
+  }
+}

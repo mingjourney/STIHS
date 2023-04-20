@@ -1,0 +1,76 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2827df4a-5873-47d9-ab81-4e1d979ff4f0",
+  "files": [],
+  "subMetas": {
+    "2c34e": {
+      "importer": "gltf-mesh",
+      "uuid": "2827df4a-5873-47d9-ab81-4e1d979ff4f0@2c34e",
+      "displayName": "",
+      "id": "2c34e",
+      "name": "Obj3d66-1022769-12-863.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "49b23": {
+      "importer": "gltf-material",
+      "uuid": "2827df4a-5873-47d9-ab81-4e1d979ff4f0@49b23",
+      "displayName": "",
+      "id": "49b23",
+      "name": "Material #49.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d6ec4": {
+      "importer": "gltf-scene",
+      "uuid": "2827df4a-5873-47d9-ab81-4e1d979ff4f0@d6ec4",
+      "displayName": "",
+      "id": "d6ec4",
+      "name": "冰球.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "2827df4a-5873-47d9-ab81-4e1d979ff4f0@d6ec4",
+    "assetFinder": {
+      "meshes": [
+        "2827df4a-5873-47d9-ab81-4e1d979ff4f0@2c34e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "2827df4a-5873-47d9-ab81-4e1d979ff4f0@49b23"
+      ],
+      "scenes": [
+        "2827df4a-5873-47d9-ab81-4e1d979ff4f0@d6ec4"
+      ]
+    }
+  }
+}

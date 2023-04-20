@@ -1,0 +1,134 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "99d77e4f-552b-444f-8ddd-7b5c8bb0e19e",
+  "files": [],
+  "subMetas": {
+    "10511": {
+      "importer": "gltf-animation",
+      "uuid": "99d77e4f-552b-444f-8ddd-7b5c8bb0e19e@10511",
+      "displayName": "",
+      "id": "10511",
+      "name": "慢停.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.625
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1cb49": {
+      "importer": "gltf-mesh",
+      "uuid": "99d77e4f-552b-444f-8ddd-7b5c8bb0e19e@1cb49",
+      "displayName": "",
+      "id": "1cb49",
+      "name": "Group1_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "99d77e4f-552b-444f-8ddd-7b5c8bb0e19e@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 22
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "49b23": {
+      "importer": "gltf-material",
+      "uuid": "99d77e4f-552b-444f-8ddd-7b5c8bb0e19e@49b23",
+      "displayName": "",
+      "id": "49b23",
+      "name": "Material #49.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "97c97": {
+      "importer": "gltf-scene",
+      "uuid": "99d77e4f-552b-444f-8ddd-7b5c8bb0e19e@97c97",
+      "displayName": "",
+      "id": "97c97",
+      "name": "人慢停.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "慢停",
+        "duration": 3.625,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "慢停",
+            "from": 0,
+            "to": 3.625,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "99d77e4f-552b-444f-8ddd-7b5c8bb0e19e@97c97",
+    "assetFinder": {
+      "meshes": [
+        "99d77e4f-552b-444f-8ddd-7b5c8bb0e19e@1cb49"
+      ],
+      "skeletons": [
+        "99d77e4f-552b-444f-8ddd-7b5c8bb0e19e@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "99d77e4f-552b-444f-8ddd-7b5c8bb0e19e@49b23"
+      ],
+      "scenes": [
+        "99d77e4f-552b-444f-8ddd-7b5c8bb0e19e@97c97"
+      ]
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "917e9076-036e-4b03-a488-be5a89e73f75",
+  "files": [],
+  "subMetas": {
+    "1cb49": {
+      "importer": "gltf-mesh",
+      "uuid": "917e9076-036e-4b03-a488-be5a89e73f75@1cb49",
+      "displayName": "",
+      "id": "1cb49",
+      "name": "Group1_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d9341": {
+      "importer": "gltf-animation",
+      "uuid": "917e9076-036e-4b03-a488-be5a89e73f75@d9341",
+      "displayName": "",
+      "id": "d9341",
+      "name": "起步.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.875
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "917e9076-036e-4b03-a488-be5a89e73f75@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 22
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "49b23": {
+      "importer": "gltf-material",
+      "uuid": "917e9076-036e-4b03-a488-be5a89e73f75@49b23",
+      "displayName": "",
+      "id": "49b23",
+      "name": "Material #49.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5db0d": {
+      "importer": "gltf-scene",
+      "uuid": "917e9076-036e-4b03-a488-be5a89e73f75@5db0d",
+      "displayName": "",
+      "id": "5db0d",
+      "name": "人起步.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "起步",
+        "duration": 2.875,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "起步",
+            "from": 0,
+            "to": 2.875,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "917e9076-036e-4b03-a488-be5a89e73f75@5db0d",
+    "assetFinder": {
+      "meshes": [
+        "917e9076-036e-4b03-a488-be5a89e73f75@1cb49"
+      ],
+      "skeletons": [
+        "917e9076-036e-4b03-a488-be5a89e73f75@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "917e9076-036e-4b03-a488-be5a89e73f75@49b23"
+      ],
+      "scenes": [
+        "917e9076-036e-4b03-a488-be5a89e73f75@5db0d"
+      ]
+    }
+  }
+}

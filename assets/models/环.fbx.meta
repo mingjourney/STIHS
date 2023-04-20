@@ -1,0 +1,76 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4e181c35-4e84-44d2-932b-e6d74c0ad2a7",
+  "files": [],
+  "subMetas": {
+    "f0481": {
+      "importer": "gltf-mesh",
+      "uuid": "4e181c35-4e84-44d2-932b-e6d74c0ad2a7@f0481",
+      "displayName": "",
+      "id": "f0481",
+      "name": "Tube001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "49b23": {
+      "importer": "gltf-material",
+      "uuid": "4e181c35-4e84-44d2-932b-e6d74c0ad2a7@49b23",
+      "displayName": "",
+      "id": "49b23",
+      "name": "Material #49.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fef85": {
+      "importer": "gltf-scene",
+      "uuid": "4e181c35-4e84-44d2-932b-e6d74c0ad2a7@fef85",
+      "displayName": "",
+      "id": "fef85",
+      "name": "环.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "4e181c35-4e84-44d2-932b-e6d74c0ad2a7@fef85",
+    "assetFinder": {
+      "meshes": [
+        "4e181c35-4e84-44d2-932b-e6d74c0ad2a7@f0481"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "4e181c35-4e84-44d2-932b-e6d74c0ad2a7@49b23"
+      ],
+      "scenes": [
+        "4e181c35-4e84-44d2-932b-e6d74c0ad2a7@fef85"
+      ]
+    }
+  }
+}
